@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @midhun72
 - 👀 I’m interested in coding and debugging
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 9496638957
+- 📫 8075644845
       midhunskumar72@gmail.com
 
 <!---
